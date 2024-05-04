@@ -1,0 +1,65 @@
+SingleChildScrollView(
+        scrollDirection: Axis.vertical,
+        physics: const BouncingScrollPhysics(),
+        child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      10.heightBox,
+                      Padding(
+                        padding: const EdgeInsets.only(left: 4),
+                        child: boldText(
+                            text: "Your Activities Performance:",
+                            color: blackColor,
+                            size: 20.0),
+                      ),
+                      10.heightBox,
+                      PieChart(dataMap: {
+                        "Done": done.toDouble(),
+                        "Incomplete": (my_todos.length - done).toDouble()
+                      })
+                    ],
+                  )
+                      .box
+                      .color(whiteColor)
+                      .shadowSm
+                      .padding(const EdgeInsets.all(8))
+                      .make(),
+                  20.heightBox,
+                  Padding(
+                    padding: const EdgeInsets.only(left: 12),
+                    child: boldText(
+                        text: "Your Todo's:", color: blackColor, size: 22.0),
+                  ),
+                  5.heightBox,
+                  Container(
+                    margin: const EdgeInsets.only(top: 5, bottom: 20),
+                    child: Column(
+                            children: my_todos.map((todo) {
+                              return TodoContainer(
+                                id: todo.id,
+                                title: todo.title,
+                                desc: todo.desc,
+                                isDone: todo.isDone,
+                                date: todo.date,
+                                onPress: () {
+                                  homeController.delete_todo(
+                                      todo.id.toString(), context);
+                                  setState(() {
+                                    homeController
+                                        .fetchData(context)
+                                        .then((value) {
+                                      my_todos = value['todoList'];
+                                      done = value['doneCount'];
+                                    });
+                                  });
+                                },
+                              );
+                            }).toList(),
+                          ),
+                  ),
+                ],
+              ),
+      ),
