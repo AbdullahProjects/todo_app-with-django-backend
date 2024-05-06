@@ -5,29 +5,19 @@ Welcome to the Todo App! This mobile application, built with Flutter and Dart, c
 ## Screenshots
 
 ### Front View
-<div style="background-color: #f0f0f0; padding: 10px; display: inline-block;">
-  <img src="https://github.com/AbdullahProjects/todo_app-with-django-backend/blob/main/Demo%20Images/Front%20View.jpg" alt="front view" width="30%">
-</div>
+<img src="https://github.com/AbdullahProjects/todo_app-with-django-backend/blob/main/Demo%20Images/Front%20View.jpg" alt="front view" width="30%" style="background-color: #f0f0f0; padding: 10px;">
 
 ### All Todo's
-<div style="background-color: #f0f0f0; padding: 10px; display: inline-block;">
-  <img src="https://github.com/AbdullahProjects/todo_app-with-django-backend/blob/main/Demo%20Images/All%20Todo's.jpg" alt="front view" width="30%">
-</div>
+<img src="https://github.com/AbdullahProjects/todo_app-with-django-backend/blob/main/Demo%20Images/All%20Todo's.jpg" alt="front view" width="30%" style="background-color: #f0f0f0; padding: 10px;">
 
 ### Add Todo
-<div style="background-color: #f0f0f0; padding: 10px; display: inline-block;">
-  <img src="https://github.com/AbdullahProjects/todo_app-with-django-backend/blob/main/Demo%20Images/Add%20Todo.jpg" alt="front view" width="30%">
-</div>
+<img src="https://github.com/AbdullahProjects/todo_app-with-django-backend/blob/main/Demo%20Images/Add%20Todo.jpg" alt="front view" width="30%" style="background-color: #f0f0f0; padding: 10px;">
 
 ### Update Todo
-<div style="background-color: #f0f0f0; padding: 10px; display: inline-block;">
-  <img src="https://github.com/AbdullahProjects/todo_app-with-django-backend/blob/main/Demo%20Images/Update%20Todo.jpg" alt="front view" width="30%">
-</div>
+<img src="https://github.com/AbdullahProjects/todo_app-with-django-backend/blob/main/Demo%20Images/Update%20Todo.jpg" alt="front view" width="30%" style="background-color: #f0f0f0; padding: 10px;">
 
 ### Todo Details
-<div style="background-color: #f0f0f0; padding: 10px; display: inline-block;">
-  <img src="https://github.com/AbdullahProjects/todo_app-with-django-backend/blob/main/Demo%20Images/Todo%20Details.jpg" alt="front view" width="30%">
-</div>
+<img src="https://github.com/AbdullahProjects/todo_app-with-django-backend/blob/main/Demo%20Images/Todo%20Details.jpg" alt="front view" width="30%" style="background-color: #f0f0f0; padding: 10px;">
 
 ## Contribution
 Contributions are welcome! If you have any suggestions or want to report a bug, feel free to open an issue or submit a pull request.
