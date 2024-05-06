@@ -5,21 +5,29 @@ Welcome to the Todo App! This mobile application, built with Flutter and Dart, c
 ## Screenshots
 
 ### Front View
-<div style="background-color: orange; padding: 10px; display: inline-block; border: 2px solid orange;">
+<p align="center">
   <img src="https://github.com/AbdullahProjects/todo_app-with-django-backend/blob/main/Demo%20Images/Front%20View.jpg" alt="front view" width="30%">
-</div>
+</p>
 
 ### All Todo's
-<img src="https://github.com/AbdullahProjects/todo_app-with-django-backend/blob/main/Demo%20Images/All%20Todo's.jpg" alt="front view" width="30%" style="background-color: orange; padding: 10px;">
+<p align="center">
+<img src="https://github.com/AbdullahProjects/todo_app-with-django-backend/blob/main/Demo%20Images/All%20Todo's.jpg" alt="front view" width="30%">
+</p>
 
 ### Add Todo
-<img src="https://github.com/AbdullahProjects/todo_app-with-django-backend/blob/main/Demo%20Images/Add%20Todo.jpg" alt="front view" width="30%" style="background-color: #f0f0f0; padding: 10px;">
+<p align="center">
+<img src="https://github.com/AbdullahProjects/todo_app-with-django-backend/blob/main/Demo%20Images/Add%20Todo.jpg" alt="front view" width="30%">
+</p>
 
 ### Update Todo
-<img src="https://github.com/AbdullahProjects/todo_app-with-django-backend/blob/main/Demo%20Images/Update%20Todo.jpg" alt="front view" width="30%" style="background-color: #f0f0f0; padding: 10px;">
+<p align="center">
+<img src="https://github.com/AbdullahProjects/todo_app-with-django-backend/blob/main/Demo%20Images/Update%20Todo.jpg" alt="front view" width="30%">
+</p>
 
 ### Todo Details
-<img src="https://github.com/AbdullahProjects/todo_app-with-django-backend/blob/main/Demo%20Images/Todo%20Details.jpg" alt="front view" width="30%" style="background-color: #f0f0f0; padding: 10px;">
+<p align="center">
+<img src="https://github.com/AbdullahProjects/todo_app-with-django-backend/blob/main/Demo%20Images/Todo%20Details.jpg" alt="front view" width="30%">
+</p>
 
 ## Contribution
 Contributions are welcome! If you have any suggestions or want to report a bug, feel free to open an issue or submit a pull request.
