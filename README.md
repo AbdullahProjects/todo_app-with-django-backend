@@ -4,9 +4,11 @@ This mobile app is created with Flutter and Dart. And use Django framework of Py
 
 Front View:
 
+<div style="background-color: #f0f0f0; padding: 20px;">  
 <p align="center">
 <img src="https://github.com/AbdullahProjects/todo_app-with-django-backend/blob/main/Demo%20Images/Front%20View.jpg" alt="front view" width="30%">
 </p>
+</div>
 
 All Todo's:
 
