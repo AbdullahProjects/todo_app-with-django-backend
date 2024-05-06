@@ -1,6 +1,6 @@
 # 🔥 Todo App
 
-Welcome to the Todo App! This mobile application, built with Flutter and Dart, coupled with Django framework for the backend, offers a seamless todo management experience. Whether you're organizing your tasks or tracking your progress, this app has got you covered.
+Welcome to the Todo App! This mobile application, built with Flutter and Dart, coupled with Django framework for the backend, offers a seamless todo management experience. Whether you're organizing your tasks or tracking your progress, this app helps you a lot.
 
 ## Screenshots
 
