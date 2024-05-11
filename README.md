@@ -4,10 +4,16 @@ Welcome to the Todo App! This mobile application, built with Flutter and Dart, c
 
 ## Screenshots
 
+
+## Click on Front View(for video Demo):
+
 ### Front View
+
 <p align="center">
-  <img src="https://github.com/AbdullahProjects/todo_app-with-django-backend/blob/main/Demo%20Images/Front%20View.jpg" alt="front view" width="30%">
-</p>
+  <a href="https://drive.google.com/file/d/1v0lwRHoRY0jnDZ0zfdscACqutDP2U109/view?usp=drive_link">
+    <img src="https://github.com/AbdullahProjects/todo_app-with-django-backend/blob/main/Demo%20Images/Front%20View.jpg" alt="Watch the video" width="30%">
+  </a>
+</p>	
 
 ### All Todo's
 <p align="center">
