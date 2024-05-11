@@ -35,5 +35,19 @@ Welcome to the Todo App! This mobile application, built with Flutter and Dart, c
 <img src="https://github.com/AbdullahProjects/todo_app-with-django-backend/blob/main/Demo%20Images/Todo%20Details.jpg" alt="front view" width="30%">
 </p>
 
+## Features
+
+- **Activity Performance Piechart**: Showing all todo's activity on basis of status 'done', 'incomplete'.
+- **Add Todo**: User can add his task title and description.
+- **Update Todo**: User can change task title, description or status whether task is done or incomplete.
+- **Delete Todo**: User can delete task when it will completed to see performance of activities.
+
+## Technologies Used
+
+- **Flutter**: A cross-platform framework for building beautiful native apps.
+- **Dart**: The programming language used for coding the app logic.
+- **Firebase**: A powerful backend platform for building scalable applications.
+
+
 ## Contribution
 Contributions are welcome! If you have any suggestions or want to report a bug, feel free to open an issue or submit a pull request.
